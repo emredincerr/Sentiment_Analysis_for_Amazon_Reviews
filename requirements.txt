@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+wordcloud
+textblob
+nltk
+openpyxl
+seaborn
+datetime
